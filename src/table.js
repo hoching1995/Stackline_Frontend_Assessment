@@ -2,14 +2,6 @@ import BootstrapTable from 'react-bootstrap-table-next'
 import React from "react";
 
 class Table extends React.Component {
-    constructor(props) {
-      super(props);
-      this.state = {
-        salesData:[],
-    };
-    }
-    
-  
     render() {
         let sortCarets = (order, column) => {
             if (!order)
@@ -50,9 +42,7 @@ class Table extends React.Component {
                     size="sm"
                     data={rawdata}
                     rowStyle={{ fontSize: 20, maxWidth: '10%' }}
-
                     columns={[...salesData]}></BootstrapTable>
-  
       );
     }
   }

@@ -10,6 +10,7 @@ class Graph extends React.Component {
       options:{}
   };
   }
+  
   componentDidMount() {
     var loadData = JSON.parse(JSON.stringify(this.props.stckline_data));
     var salesData = loadData[0]["sales"]
@@ -47,10 +48,7 @@ class Graph extends React.Component {
 
   render() {
     return (
-
-
       <ReactApexChart options={this.state.options} series={this.state.series} type="area" height={450} />
-
     );
   }
 }
