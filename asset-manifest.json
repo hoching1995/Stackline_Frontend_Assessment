@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Stackline_Frontend_Assessment/static/css/main.25d15cba.css",
+    "main.js": "/Stackline_Frontend_Assessment/static/js/main.c427eb28.js",
+    "static/js/787.f055211e.chunk.js": "/Stackline_Frontend_Assessment/static/js/787.f055211e.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/Stackline_Frontend_Assessment/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/Stackline_Frontend_Assessment/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/Stackline_Frontend_Assessment/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/Stackline_Frontend_Assessment/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/Stackline_Frontend_Assessment/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/stackline_logo.svg": "/Stackline_Frontend_Assessment/static/media/stackline_logo.5935081bd899ecfe02395699e768f84e.svg",
+    "index.html": "/Stackline_Frontend_Assessment/index.html",
+    "main.25d15cba.css.map": "/Stackline_Frontend_Assessment/static/css/main.25d15cba.css.map",
+    "main.c427eb28.js.map": "/Stackline_Frontend_Assessment/static/js/main.c427eb28.js.map",
+    "787.f055211e.chunk.js.map": "/Stackline_Frontend_Assessment/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d15cba.css",
+    "static/js/main.c427eb28.js"
+  ]
+}
